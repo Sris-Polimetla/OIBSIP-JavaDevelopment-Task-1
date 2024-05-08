@@ -1,5 +1,5 @@
 
-Laptop with Browser Icon
+ONLINE RESERVATION SYSTEM
 
 This Online Reservation System will include all the necessary fields which are required during
 online reservation system. This Online Reservation System will be easy to use and can be used by
@@ -29,14 +29,4 @@ Cancellation Form – If passengers want to cancel their tickets then they have 
 PNR number and after submitting it, this will display the entire information related to that
 particular PNR number. If users want to confirm their cancellation, in this case they have to press
 OK button.
-
-
-
-
-
-
-
-
-
-ONLINE RESERVATION SYSTEM
 
